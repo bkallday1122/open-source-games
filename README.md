@@ -419,7 +419,7 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 
 - **[fheroes2](https://ihhub.github.io/fheroes2)** - A recreation of [Heroes of Might and Magic II](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_II) game engine. [[source]](https://github.com/ihhub/fheroes2)
 
-- **[FreeCol](https://www.freecol.org/)** - A turn-based strategy game based on the old game[Colonization](https://en.wikipedia.org/wiki/Sid_Meier%27s_Colonization), and similar to [Civilization](https://en.wikipedia.org/wiki/Civilization_(video_game)). [[source]](https://github.com/FreeCol/freecol)
+- **[FreeCol](https://www.freecol.org/)** - A turn-based strategy game based on the old game [Colonization](https://en.wikipedia.org/wiki/Sid_Meier%27s_Colonization), and similar to [Civilization](https://en.wikipedia.org/wiki/Civilization_(video_game)). [[source]](https://github.com/FreeCol/freecol)
 
 - **[Freeciv](http://www.freeciv.org/)** - A Free and Open Source empire-building strategy game. [[source]](https://github.com/freeciv/freeciv)
 
