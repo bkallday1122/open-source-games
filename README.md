@@ -67,7 +67,7 @@ This is a list of different open-source video games and commercial video games o
 
 - **Julius** - An open source re-implementation of *[Caesar III](https://en.wikipedia.org/wiki/Caesar_III)*. [[source]](https://github.com/bvschaik/julius)
 
-- **[micropolisJS](http://www.graememcc.co.uk/micropolisJS)** - A handmade Javascript port of the open-source city simulator *[Micropolis](https://mvolution.itch.io/micropolis)*. [[source]](https://github.com/graememcc/micropolisJS)
+- **[micropolisJS](http://www.graememcc.co.uk/micropolisJS)** - A handmade JavaScript port of the open-source city simulator *[Micropolis](https://mvolution.itch.io/micropolis)*. [[source]](https://github.com/graememcc/micropolisJS)
 
 - **[Unknown Horizons](https://unknown-horizons.org)** - A 2D realtime strategy simulation with an emphasis on economy and city building.
 
@@ -427,7 +427,7 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 
 - **[Hnefatafl](https://hnefatafl.org/)** - The game of Copenhagen Hnefatafl. Sort of like chess. [[source]](https://github.com/dcampbell24/hnefatafl)
 
-- **[OpenPanzer](https://www.linuxconsulting.ro/openpanzer)** - Javascript/HTML5 rewrite of [Panzer General II](https://en.wikipedia.org/wiki/Panzer_General_II) game. [[source]](https://github.com/nicupavel/openpanzer)
+- **[OpenPanzer](https://www.linuxconsulting.ro/openpanzer)** - JavaScript/HTML5 rewrite of [Panzer General II](https://en.wikipedia.org/wiki/Panzer_General_II) game. [[source]](https://github.com/nicupavel/openpanzer)
 
 - **[OpenXcom](https://openxcom.org/)** - An open-source clone of the popular [UFO: Enemy Unknown](https://en.wikipedia.org/wiki/UFO:_Enemy_Unknown) and [X-COM: Terror From the Deep](https://en.wikipedia.org/wiki/X-COM:_Terror_from_the_Deep) video games by [MicroPros](https://en.wikipedia.org/wiki/MicroProse). [[source]](https://github.com/OpenXcom/OpenXcom)
 
