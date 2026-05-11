@@ -271,7 +271,7 @@ and a powerful UI. [[source]](https://github.com/ZeroK-RTS/Zero-K) **Engine: [Sp
 
 - **[Strategus](https://stratagus.com)** Engine Games [[source]](https://github.com/Wargus/stratagus)
 
-  - **[War1gus](https://stratagus.com/war1gus.html)** - A re-implementation of [Warcraft: Orcs & Humans](https://en.wikipedia.org/wiki/Warcraft:_Orcs_%26_Humans) that that can be played on modern platforms. [[source]](https://github.com/Wargus/war1gus)
+  - **[War1gus](https://stratagus.com/war1gus.html)** - A re-implementation of [Warcraft: Orcs & Humans](https://en.wikipedia.org/wiki/Warcraft:_Orcs_%26_Humans) that can be played on modern platforms. [[source]](https://github.com/Wargus/war1gus)
 
   - **[Wargus](https://stratagus.com)** - Importer and scripts for [Warcraft II: Tides of Darkness](https://en.wikipedia.org/wiki/Warcraft_II:_Tides_of_Darkness), the expansion [Beyond the Dark Portal](https://en.wikipedia.org/wiki/Warcraft_II:_Beyond_the_Dark_Portal), and Aleonas Tales. [[source]](https://github.com/Wargus/wargus)
 
